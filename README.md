@@ -1,17 +1,18 @@
 # _Portfolio_
 
-#### _An ever growing catalog of my work, experience, and interests, 10.14.16_
+#### _An ever growing catalog of my work, experience, and interests, October 14, 2016_
 
 #### By _**Jonathan Thom**_
 
 ## Description
 
-_This is a landing page for those interested in my professional life as a developer. It includes my background, a bit about my interests, and most importantly, links to projects I've done. It was also a great exercise in webpage design._
+_This is a landing page for those interested in my professional life as a developer. It includes my background, a bit about my interests, and most importantly, links to projects I've done. It was also a great exercise in webpage design. It is very nearly fully responsive to different viewports._
 
 ## Setup/Installation Requirements
 
-* _You may view the page in any modern web browser at: https://jonathanwthom.github.io/portfolio/_
-* _You can also download through the command line via $git clone https://github.com/JonathanWThom/portfolio._
+* _You may view the page in any modern web or mobile browser at: https://jonathanwthom.github.io/portfolio/_
+* _You can also download it through the command line via:_
+>$git clone https://github.com/JonathanWThom/portfolio.
 * _Once downloaded, open the index.html in any browser._
 
 
