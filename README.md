@@ -14,6 +14,7 @@ _This is a landing page for those interested in my professional life as a develo
 * _You can also download it through the command line via:_
 
 > $ git clone https://github.com/JonathanWThom/portfolio.
+
 * _Once downloaded, open the index.html in any browser._
 
 
