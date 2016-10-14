@@ -10,8 +10,8 @@ _This is a landing page for those interested in my professional life as a develo
 
 ## Setup/Installation Requirements
 
-* _You may view the page in any modern web browser at: gh page link_
-* _You can also download through the command line via $git clone repository._
+* _You may view the page in any modern web browser at: https://jonathanwthom.github.io/portfolio/_
+* _You can also download through the command line via $git clone https://github.com/JonathanWThom/portfolio._
 * _Once downloaded, open the index.html in any browser._
 
 
