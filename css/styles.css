@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to left top, #ccffcc, #4dff4d)
+  background: linear-gradient(to left top, #ccffcc, #4dff4d);
 }
 
 .floatleft {
@@ -35,6 +35,7 @@ img {
 
 .floatright ul p {
   text-align: left;
+  margin-bottom: 0;
 }
 
 ol {
@@ -71,4 +72,18 @@ ol {
 
 h3 {
   border-bottom: solid 5px darkgreen;
+  padding-bottom: 20px;
+}
+
+.floatright ol li {
+  padding-bottom: 0;
+}
+
+.floatleft h2 {
+  border-bottom: solid 5px darkgreen;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 65px;
 }
