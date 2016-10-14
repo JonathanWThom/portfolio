@@ -124,4 +124,14 @@ h1 {
     width: 100%;
     padding: 0;
   }
+
+  .desktop {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  .mobile {
+    display: none;
+  }
 }
