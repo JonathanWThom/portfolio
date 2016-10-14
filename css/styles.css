@@ -2,6 +2,21 @@ body {
   background: linear-gradient(to left top, #ccffcc, #4dff4d);
 }
 
+.heading {
+  border-bottom: solid 5px darkgreen;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
 .floatleft {
   float: left;
   width: 20%;
@@ -27,6 +42,7 @@ img {
 
 .floatleft ul {
   margin-bottom: 15px;
+  padding-left: 15px;
 }
 
 .floatleft h2 {
@@ -40,6 +56,7 @@ img {
 
 ol {
   text-align: left;
+  padding-left: 15px;
 }
 
 .floatright li {
