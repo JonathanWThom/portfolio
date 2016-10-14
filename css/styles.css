@@ -1,7 +1,17 @@
 .floatleft {
   float: left;
+  width: 30%;
+  display: inline-block;
 }
 
 .floatright {
   float: right;
+  width: 70%;
+  display: inline-block;
+}
+
+img {
+  width: 100%;
+  border-radius: 100%;
+  padding: 15px;
 }
