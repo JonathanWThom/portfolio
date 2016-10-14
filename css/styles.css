@@ -111,3 +111,17 @@ h1 {
   box-shadow: none;
   width: 66.66667%;
 }
+
+@media screen and (max-width: 480px) {
+  .floatleft {
+    float: none;
+    width: 100%;
+    padding: 0;
+  }
+
+  .floatright {
+    float: none;
+    width: 100%;
+    padding: 0;
+  }
+}
