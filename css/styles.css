@@ -1,17 +1,26 @@
 .floatleft {
   float: left;
-  width: 30%;
+  width: 20%;
   display: inline-block;
 }
 
 .floatright {
   float: right;
-  width: 70%;
+  width: 80%;
   display: inline-block;
+  text-align: center;
 }
 
 img {
   width: 100%;
   border-radius: 100%;
   padding: 15px;
+}
+
+.floatleft ul {
+  margin-bottom: 15px;
+}
+
+.floatleft h2 {
+  margin-bottom: 15px;
 }
