@@ -128,10 +128,27 @@ h1 {
   .desktop {
     display: none;
   }
+
+  .floatleft h2 {
+    text-align: center;
+    font-size: 24px;
+  }
+
+  .floatleft ul {
+    padding-left: 40px;
+  }
+
+  .floatleft h4 {
+    padding-left: 25px;
+  }
 }
 
 @media screen and (min-width: 480px) {
   .mobile {
     display: none;
   }
+}
+
+@media screen and (min-width: 480px) and (max-width: 768px) {
+  
 }
