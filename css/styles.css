@@ -41,3 +41,11 @@ ol {
 .floatright h4 {
   padding-bottom: 20px;
 }
+
+#aboutme {
+  padding-bottom: 25px;
+}
+
+#projects li {
+  color: red;
+}
