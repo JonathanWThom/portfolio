@@ -30,6 +30,10 @@ img {
   text-align: left;
 }
 
+ol {
+  text-align: left;
+}
+
 .floatright li {
   padding-bottom: 15px;
 }
