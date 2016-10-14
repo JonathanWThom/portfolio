@@ -1,3 +1,7 @@
+body {
+  background: linear-gradient(to left top, #ccffcc, #4dff4d)
+}
+
 .floatleft {
   float: left;
   width: 20%;
@@ -16,6 +20,8 @@ img {
   width: 100%;
   border-radius: 100%;
   padding: 15px;
+  box-shadow: 3px 3px 3px 3px black;
+  margin-top: 10px;
 }
 
 .floatleft ul {
@@ -44,6 +50,7 @@ ol {
 
 #aboutme {
   padding-bottom: 25px;
+  padding-left: 15px;
 }
 
 #projects li {
